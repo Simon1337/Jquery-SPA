@@ -1,0 +1,30 @@
+#header-wrapper
+{
+  height: 46px;
+}
+
+#header
+{
+  display: table-row-group;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 100%; /* Full height */
+}
+
+#header li
+{
+  display: inline;
+  float: left;
+}
+
+#header li a
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: sans-serif;
+}

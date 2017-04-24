@@ -1,0 +1,50 @@
+.active
+{
+  background-color: blue;
+}
+
+.hovering
+{
+  background-color: #111;
+}
+
+.activehovering
+{
+  background-color: darkblue;
+}
+
+.container-wrapper
+{
+  margin-bottom: 8px;
+  background-color: #333;
+  width: 100%;
+}
+
+.side5-margin-box
+{
+  height: 100%;
+  width: 0;
+  margin: 0;
+  padding: 5%;
+  float: left;
+}
+
+.text-container
+{
+  margin-top: 25px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: white;
+}
+
+p
+{
+  font-size: 16px;
+}
+
+iframe
+{
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
